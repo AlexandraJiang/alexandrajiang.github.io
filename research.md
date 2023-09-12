@@ -1,7 +1,7 @@
 
 **Conference Paper**
 
-**Jiang, X.** (2023). Authoritarian Personality, Partisan Media Selective Exposure, and Gun Attitudes. Poster to be presented at the 119th American Political Science Association (APSA) Annual Meeting & Exhibition, Los Angeles, USA.
+**Jiang, X.** (2023). Authoritarian Personality, Partisan Media Selective Exposure, and Gun Attitudes. Poster presented at the 119th American Political Science Association (APSA) Annual Meeting & Exhibition, Los Angeles, USA.
 
 Yan, L., Ni, Y., Tan, X., **Jiang, X.**, Chen, Z. & Wang, C. (2023). The Narrative Gene of Collective Gatekeeping: Pandemic, Government Regularization, Economic Development, and the Publicness of Weibo Hot Search (2020-2021). Paper presented at the 73nd International Communication Association (ICA) Annual Conference, Toronto, Canada.
 

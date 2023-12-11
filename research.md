@@ -5,7 +5,7 @@
 
 Yan, L., Ni, Y., Tan, X., **Jiang, X.**, Chen, Z. & Wang, C. (2023). The Narrative Gene of Collective Gatekeeping: Pandemic, Government Regularization, Economic Development, and the Publicness of Weibo Hot Search (2020-2021). Paper presented at the 73nd International Communication Association (ICA) Annual Conference, Toronto, Canada.
 
-**Jiang, X.**, He, B. & Wang, C. (2023). Narratives and emotions promote the spread of anti-Asian hate speech and counter-speech during COVID-19. Work in progress presented at the 5th Global Communication Summit held by the Valenti School of Communication and the Asian American Studies Center at the University of Houston, Hybrid.
+**Jiang, X.** (2023). Narratives and emotions promote the spread of anti-Asian hate speech and counter-speech during COVID-19. Work in progress presented at the 5th Global Communication Summit held by the Valenti School of Communication and the Asian American Studies Center at the University of Houston, Hybrid.
 
 **Jiang, X.**, Hu, S., Fei, Y. & Wang, C. (2022). The Reinforcement of Opinion Polarization on the Smart Media Platform: Analyzing the News and Comments about Sino-US Relations on Toutiao. Paper presented at the annual conference of the International Association for Media and Communication Research (IAMCR), Online.
 

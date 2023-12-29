@@ -4,5 +4,6 @@ I am interested in political communication, computational social science, and so
 
 I am interested in computational methods and quantitative methods. I usually use large-scale social media data and survey data. I also want to try experiments in the future.
 
-I have a white Samoyed dog named Laifu (来福, Meaning: Happiness comes to our family). She now lives happily in Huai’an, Jiangsu, where I was born and raised. In my spare time, I like bodybuilding and watching movies. *Daisy*, *The Lord of the Rings*, *Star Wars*, and *Mission: Impossible* are my favorite ones. I am also a fan of *The Phantom of the Opera*.
+I have a white Samoyed dog named Laifu (来福, Meaning: Happiness comes to our family). She now lives happily in Huai’an, Jiangsu, where I was born and raised. In my spare time, I like bodybuilding and watching movies. *Daisy*, *The Lord of the Rings* and *Star Wars* are my favorite ones. I love listening to performances by sopranos and tenors. I am also a fan of *The Phantom of the Opera* (Musical). My favorite singers are Sia and Adele.
 
+**I am happy for academic collaboration, feel free to contact me via email.**

@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Xinya Jiang" #左侧个人资料
   avatar           : "/assets/images/pw.jpeg"
-  bio              : "M.A. student at NJU\n\nEmail: xinya.jiang@smail.nju.edu.cn"
-  location         : "Nanjing, China"
+  bio              : "PhD student at UT\n\nEmail: xinya.jiang@utexas.edu"
+  location         : "Austin, TX, USA"
   email            :
   links:
     - label: "Email"
